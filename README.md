@@ -18,15 +18,5 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
-  <img src="img/iconBW.png" width="40" alt="アイコン画像">
-  <img src="img/icon.png" width="40" alt="アイコン画像">
-  <img src="img/iconBW.png" width="40" alt="アイコン画像">
-  <img src="img/icon.png" width="40" alt="アイコン画像">
-  <img src="img/iconBW.png" width="40" alt="アイコン画像">
-  <img src="img/icon.png" width="40" alt="アイコン画像">
-  <img src="img/iconBW.png" width="40" alt="アイコン画像">
-  <img src="img/icon.png" width="40" alt="アイコン画像">
-  <img src="img/iconBW.png" width="40" alt="アイコン画像">
-  <img src="img/icon.png" width="40" alt="アイコン画像">
-  <img src="img/iconBW.png" width="40" alt="アイコン画像">
+  <img src="img/prof.gif" alt="アイコン画像">
 </p>
