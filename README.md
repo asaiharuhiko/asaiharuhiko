@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ---
 <p align="center">
   <img src="img/prof.gif" alt="アイコン画像">
-  <a href="https://github.com/yatai310/Nimbus"><img src="img/nimbus_rogo_animation.gif" width=400 alt="Nimbus-rogo"></a>
+  <a href="https://github.com/yatai310/Nimbus"><img src="img/nimbus_rogo.gif" width=400 alt="Nimbus-rogo"></a>
 </p>
