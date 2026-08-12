@@ -1,6 +1,3 @@
-## 自己紹介
-私はasaiharuhiko！元気です！<br>
-たまに浅田まさひろを名乗ったりもしてます。[これ](https://x.com/themasahirocity)みたいな。[ここ](https://voice.stream.co.jp/event/20250929/#:~:text=%E3%81%8C%E5%AC%89%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%E3%80%8D-,%E6%B5%85%E7%94%B0%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D,-%E3%81%95%E3%82%93%EF%BC%88%E5%90%8C%E5%B7%A6%E3%81%8B%E3%82%89)でも名乗ってる。
 <!--
 **asaiharuhiko/asaiharuhiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 自己紹介
+私はasaiharuhiko！元気です！<br>
+たまに浅田まさひろを名乗ったりもしてます。[これ](https://x.com/themasahirocity)みたいな。[ここ](https://voice.stream.co.jp/event/20250929/#:~:text=%E3%81%8C%E5%AC%89%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%E3%80%8D-,%E6%B5%85%E7%94%B0%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D,-%E3%81%95%E3%82%93%EF%BC%88%E5%90%8C%E5%B7%A6%E3%81%8B%E3%82%89)でも名乗ってる。
+
+---
+
+<p align="center">
+  <img src="img/icon.png" width="100" alt="アイコン画像">
+</p>
